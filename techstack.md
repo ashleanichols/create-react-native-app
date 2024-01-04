@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ashleanichols/create-react-native-app is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -13,11 +14,13 @@ ashleanichols/create-react-native-app is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ashleanichols/create-react-native-app is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -29,14 +32,15 @@ ashleanichols/create-react-native-app is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ashleanichols/create-react-native-app](https://github.com/ashleanichols/create-react-native-app)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|11/09/23 <br/>Report generated|
+|29<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -173,9 +177,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (12)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (15)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (12)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (15)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -184,10 +188,13 @@ Full tech stack [here](/techstack.md)
 |[@types/fs-extra](https://www.npmjs.com/@types/fs-extra)|v8.1.0|09/03/20|Cedric van Putten |MIT|N/A|
 |[@types/node](https://www.npmjs.com/@types/node)|v13.11.1|09/03/20|Cedric van Putten |MIT|N/A|
 |[babel-jest](https://www.npmjs.com/babel-jest)|v26.0.1|05/16/20|Evan Bacon |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|04/16/20|Evan Bacon |MIT|N/A|
 |[commander](https://www.npmjs.com/commander)|v2.20.0|04/16/20|Evan Bacon |MIT|N/A|
 |[execa](https://www.npmjs.com/execa)|v1.0.0|05/16/20|Evan Bacon |MIT|N/A|
 |[fs-extra](https://www.npmjs.com/fs-extra)|v9.0.0|04/16/20|Evan Bacon |MIT|N/A|
 |[got](https://www.npmjs.com/got)|v11.1.3|03/06/17|Adam Miskiewicz |MIT|[CVE-2022-33987](https://github.com/advisories/GHSA-pfrx-2q88-qq97) (Moderate)|
+|[husky](https://www.npmjs.com/husky)|v1.3.1|05/14/20|Evan Bacon |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v8.2.1|05/14/20|Evan Bacon |MIT|N/A|
 |[ora](https://www.npmjs.com/ora)|v4.0.3|03/06/17|Adam Miskiewicz |MIT|N/A|
 |[prompts](https://www.npmjs.com/prompts)|v2.3.2|09/03/20|Cedric van Putten |MIT|N/A|
 |[tar](https://www.npmjs.com/tar)|v6.0.1|03/06/17|Adam Miskiewicz |ISC|[CVE-2021-37712](https://github.com/advisories/GHSA-qq89-hq3f-393p) (High)<br/>[CVE-2021-37713](https://github.com/advisories/GHSA-5955-9wpr-37jh) (High)<br/>[CVE-2021-32803](https://github.com/advisories/GHSA-r628-mhmh-qjhw) (High)<br/>[CVE-2021-37701](https://github.com/advisories/GHSA-9r2w-394v-53qc) (High)<br/>[CVE-2021-32804](https://github.com/advisories/GHSA-3jfq-g458-7qm9) (High)|
@@ -195,4 +202,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
